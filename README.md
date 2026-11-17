@@ -5,10 +5,10 @@
 
   The backend for Clientglass — client-ready project delivery for small agencies: a task board your team runs, and a live status page your client opens without an account.
 
-  [![CI](https://github.com/mahi0601/motive-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/mahi0601/motive-backend/actions/workflows/ci.yml)
+  [![CI](https://github.com/mahi0601/clientglass-api/actions/workflows/ci.yml/badge.svg)](https://github.com/mahi0601/clientglass-api/actions/workflows/ci.yml)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-  [Frontend repo](https://github.com/mahi0601/Motive)
+  [Frontend repo](https://github.com/mahi0601/ClientGlass)
 </div>
 
 <br>
@@ -24,7 +24,7 @@ Node.js + Express + Prisma, Postgres (Neon), JWT auth, Socket.io, Stripe.
 - Stripe subscription billing, verified via webhook signature
 - Optional integrations — Cloudflare R2 storage, Sentry, Resend email, Logtail — each off by default
 
-The frontend lives in a sibling repo — [Clientglass](https://github.com/mahi0601/Motive).
+The frontend lives in a sibling repo — [ClientGlass](https://github.com/mahi0601/ClientGlass).
 
 ## Quick start
 
